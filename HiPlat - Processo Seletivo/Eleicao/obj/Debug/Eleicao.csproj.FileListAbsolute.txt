@@ -1,0 +1,6 @@
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\Eleicao\bin\Debug\Eleicao.dll
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\Eleicao\bin\Debug\Eleicao.pdb
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\Eleicao\obj\Debug\Eleicao.csprojAssemblyReference.cache
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\Eleicao\obj\Debug\Eleicao.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\Eleicao\obj\Debug\Eleicao.dll
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\Eleicao\obj\Debug\Eleicao.pdb

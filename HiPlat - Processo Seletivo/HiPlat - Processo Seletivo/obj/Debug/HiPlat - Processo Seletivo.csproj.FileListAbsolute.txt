@@ -1,0 +1,6 @@
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\HiPlat - Processo Seletivo\bin\Debug\HiperMercado.dll
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\HiPlat - Processo Seletivo\bin\Debug\HiperMercado.pdb
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\HiPlat - Processo Seletivo\obj\Debug\HiPlat - Processo Seletivo.csprojAssemblyReference.cache
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\HiPlat - Processo Seletivo\obj\Debug\HiPlat - Processo Seletivo.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\HiPlat - Processo Seletivo\obj\Debug\HiperMercado.dll
+D:\Projetos\Estudo\HiPlat\HiPlat - Processo Seletivo\HiPlat - Processo Seletivo\obj\Debug\HiperMercado.pdb
